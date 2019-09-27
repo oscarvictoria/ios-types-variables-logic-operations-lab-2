@@ -33,6 +33,7 @@ let number = 2
 
 // your code here
 ```
+let number =  2 
 
 ***
 ## Question 3
