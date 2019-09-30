@@ -20,8 +20,8 @@ var grade1 = 7.0
 var grade2 = 9.0
 var grade3 = 5.0
 
+// your code here
 
-```
 var grade1 = 7.0
 
 var grade2 = 9.0
@@ -33,6 +33,9 @@ var yourGrade = 8.0
 print(yourGrade > 7.2 ? "above average" : "below average")
 
 
+```
+
+
 ***
 ## Question 2
 
@@ -42,10 +45,12 @@ You are given a number. Print even if the number is even or odd otherwise.
 let number = 2
 
 // your code here
-```
+
 let number = 2
 
 print(number == 2 ? "even" : "odd")
+```
+
 
 ***
 ## Question 3
@@ -57,12 +62,14 @@ var a = 12
 var b = 3
 
 // code here
-```
+
 var a = 12
 
 var b = 3
 
 print(a / b == 4 ? "divisible" : "not divisible")
+```
+
 ***
 ## Question 4
 
@@ -74,7 +81,7 @@ var b = 3
 var c = 2
 
 // your code here
-```
+
 var a = 2
 
 var b = 3
@@ -82,6 +89,8 @@ var b = 3
 var c = 2
 
 print(a == c ? "At least two variables have the same value" : "All the values are differentz")
+```
+
 
 ***
 ## Question 5
@@ -132,6 +141,8 @@ var c = 3
 var d = 4
 
 // your code here
+
+print(c)
 ```
 
 ***
@@ -218,8 +229,9 @@ b %= c
 
 print(a + b + c)
 
+
 ```
-## Answer: 
+## Answer:  30 
 
 ***
 ## Question 14
@@ -227,13 +239,13 @@ print(a + b + c)
 let div = 11 / 4
 
 ```swift
-1. The value of div is ____________________(or write "div1 will not compile")
+1. The value of div is _________2___________(or write "div1 will not compile")
 
 let div2 = 11.0 / 4.0
-2. The value of div2 is ________________________(or write "div2 will not compile")
+2. The value of div2 is _______________2.75_________(or write "div2 will not compile")
 let isEqual = div == div2
 
-3. The value of isEqual is_____________________ (or write "isEqual will not compile")
+3. The value of isEqual is "isEqual will not compile" (or write "isEqual will not compile")
 
 
 ```
