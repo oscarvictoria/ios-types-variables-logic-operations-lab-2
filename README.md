@@ -20,8 +20,18 @@ var grade1 = 7.0
 var grade2 = 9.0
 var grade3 = 5.0
 
-// your code here
+
 ```
+var grade1 = 7.0
+
+var grade2 = 9.0
+
+var grade3 = 5.0
+
+var yourGrade = 8.0
+
+print(yourGrade > 7.2 ? "above average" : "below average")
+
 
 ***
 ## Question 2
@@ -33,7 +43,9 @@ let number = 2
 
 // your code here
 ```
-let number =  2 
+let number = 2
+
+print(number == 2 ? "even" : "odd")
 
 ***
 ## Question 3
@@ -46,7 +58,11 @@ var b = 3
 
 // code here
 ```
+var a = 12
 
+var b = 3
+
+print(a / b == 4 ? "divisible" : "not divisible")
 ***
 ## Question 4
 
@@ -59,6 +75,13 @@ var c = 2
 
 // your code here
 ```
+var a = 2
+
+var b = 3
+
+var c = 2
+
+print(a == c ? "At least two variables have the same value" : "All the values are differentz")
 
 ***
 ## Question 5
@@ -124,6 +147,7 @@ d. (4 < 3 || 4 > 3) && ("Message: " == "Message: ")
 e. !(3 != 3)
 
 ```
+## Answer: None of the above 
 
 ***
 ## Question 10
@@ -144,6 +168,7 @@ d. (x && y) || z > 6
 e. !(z < 6) && !y && !x
 
 ```
+## Answer: None of the above 
 
 
 ***
@@ -158,6 +183,7 @@ c. Integer types in computers take up a fixed amount of memory.
 d. Integers may contain decimals.
 
 ```
+## Answer: c
 
 
 ***
@@ -172,7 +198,7 @@ c. let nameOfBook: Int = 14
 d. let yearPublished = "Nineteen-thirty-five"
 
 ```
-
+## Answer: All of the above 
 ***
 ## Question 13
 
@@ -193,6 +219,7 @@ b %= c
 print(a + b + c)
 
 ```
+## Answer: 
 
 ***
 ## Question 14
@@ -226,6 +253,7 @@ c. n is a Decimal
 d. In is an Int
 
 ```
+## Answer: b, c
 
 # Bonus 
 
