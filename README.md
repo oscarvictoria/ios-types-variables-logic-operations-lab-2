@@ -34,7 +34,12 @@ print(yourGrade > 7.2 ? "above average" : "below average")
 
 
 ```
+## Answer: 
+```
 
+
+
+```
 
 ***
 ## Question 2
@@ -49,6 +54,12 @@ let number = 2
 let number = 2
 
 print(number == 2 ? "even" : "odd")
+```
+## Answer:
+```
+
+
+
 ```
 
 
@@ -68,6 +79,12 @@ var a = 12
 var b = 3
 
 print(a / b == 4 ? "divisible" : "not divisible")
+```
+## Answer:
+```
+
+
+
 ```
 
 ***
@@ -90,6 +107,13 @@ var c = 2
 
 print(a == c ? "At least two variables have the same value" : "All the values are differentz")
 ```
+## Answer: 
+```
+
+
+
+
+```
 
 
 ***
@@ -103,6 +127,13 @@ var eggsAge = 12 // eggs are 12 days old
 
 // your code here
 ```
+## Answer: 
+```
+
+
+
+
+```
 
 ***
 ## Question 6
@@ -114,6 +145,12 @@ The above rule is valid except that every 100 years special rules apply. Years t
 let year = 2014
 
 // your code here
+```
+## Answer:
+```
+
+
+
 ```
 
 ***
@@ -130,6 +167,12 @@ let randomNum = Int.random(in: 0...100)
 Hint: use an if/else block along with the `%` operator
 
 ***
+## Answer:
+```
+
+
+
+```
 ## Question 8
 
 You are given four variables `a`, `b`, `c` and `d`. Print the value of the smallest one.
@@ -143,6 +186,12 @@ var d = 4
 // your code here
 
 print(c)
+```
+## Answer: 
+```
+
+
+
 ```
 
 ***
